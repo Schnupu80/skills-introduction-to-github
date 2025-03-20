@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub by Steffi Test der Zweite
+# Introduction to GitHub by Steffi Test der Zweite und die Dritte
 
 _Get started using GitHub in less than an hour._
 
